@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #F1F5F9;
+  color: #1f2937;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+    'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+:root {
+  --color-primary: #1E3A8A;
+  --color-secondary: #60A5FA;
+  --color-bg-gray: #F1F5F9;
+  --color-accent-pink: #EC4899;
+}
+
+#title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
