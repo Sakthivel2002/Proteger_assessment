@@ -9,5 +9,7 @@ This repository contains the frontend dashboard built as part of the Proteger as
 
 ## Setup
 git clone https://github.com/Sakthivel2002/Proteger_assessment.git
+
 npm install
+
 npm run dev
